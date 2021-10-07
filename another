@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>For DEV</title>
+</head>
+<body>
+    <font face="Times New Roman" size="5">
+      <table cellspacing="20">
+        <tr>
+          <td><img src="Image\Hạ còn vương nắng.png" alt="oops sory"
+               width="300"
+               height="300"></td>
+          <td><h1><b>QUOC</b></h1>
+          <h3>Hi i am Onibaku, welcome to my profile</h3>
+          <h3>01/05/2003</h3>
+          <h3>Vietnamese</h3><h2>(●'◡'●)<br><a href="https://www.youtube.com/watch?v=lxw4Y8qzq4w">Chill</a></h2></td>
+        </tr>
+      </table>
+
+    <hr width="3000" color="gray">
+
+    <table cellspacing="10">
+      <thead>
+        <tr>
+         <th>Introduce</th>
+         <th>Contact us</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+      <tr>
+      <td>You only live once, but if you do it right, once is enough</td>
+      <td>17 Stallin,Berlin,German</td>
+      </tr>
+      <tr>
+        <td>Make your imagine possible</td>
+        <td>095-xxx-xxx</td>
+      </tr>
+    </table>
+    <hr>
+    <h4>Skills</h4>
+      <table cellspacing="1">
+        <tr>
+          <td>Javacrip</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>C++</td>
+          <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>CSS,HTML</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+      </table>
+      <hr>
+      <table>
+        <tr>
+          <td><h3><a href="Manga.html">Manga</a></h3></td>
+          <td><h3><a href="Anime.html">Anime</a></h3></td>
+          <td><h3><a href="musics.html">Music</a></h3></td>
+        </tr>
+      </table>
+      <hr>
+      <form>
+      <li>  <label>Usename</label>
+        <input type="text" name="" value=""></li>
+        <br>
+        <li><label>password</label>
+        <input type="password" name="" value=""></li>
+        <br>
+        <li><input type="submit" name="" value="Send"></li>
+        <input type="file" name="" value=""><br>
+        <input type="radio" name="" value=""><br>
+        <input type="range" name="" value=""><br>
+        <input type="reset" name="" value=""><br>
+        <input type="date" name="" value="">
+      </form>
+      <br>
+      <form action="mailto:info@gmail.com" method="post" enctype="text/plain">
+       <label>Your name:</label>
+       <input type="text" name="yourName" value=""><br>
+       <label>Your email:</label>
+       <input type="email" name="yourEmail" value=""><br>
+       <label>Your Report:</label>
+       <textarea name="name" rows="8" cols="40"></textarea><br>
+       <input type="submit" name="">
+      </form>
+    </font>
+
+</body>
+
+</html>
